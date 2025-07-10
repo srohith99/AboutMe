@@ -15,7 +15,7 @@
 - Blockchain for real-world applications
 
 📫 Let’s connect:
-- Email: srohith@example.com
+- Email: srohith.linkedin@gmail.com
 - LinkedIn: [linkedin.com/in/srohith](https://www.linkedin.com/in/rohith-s-0b845a313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 🚀 I believe in learning by building, contributing, and collaborating.
